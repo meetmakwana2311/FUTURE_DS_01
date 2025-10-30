@@ -1,10 +1,11 @@
 # FUTURE_DS_01
 Future Interns Task 1 (Data Science and Analytics Intern)
 
-**Business Sales Dashboard from E-Commerce Data
-**
+Business Sales Dashboard from E-Commerce Data
+
 Project Overview: 
 This project involves the analysis of e-commerce sales data to identify key business insights, including top-performing products, sales trends, profit analysis, and customer behavior. The task was completed as part of the internship program at Future Interns.
+> **Note:** The dataset used for this project is not uploaded to GitHub due to its large file size.
 
 Objective
 
@@ -35,5 +36,3 @@ Key Visuals:
 5. Customer-wise sales summary
 
 Deliverable: An interactive and user-friendly Power BI dashboard providing comprehensive sales insights to support data-driven business strategies.
-
-
